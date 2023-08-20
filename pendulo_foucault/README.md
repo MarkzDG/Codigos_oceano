@@ -6,7 +6,7 @@ En este proyecto, creé animaciones que ilustran la trayectoria de un péndulo u
 
 El repositorio contiene los siguientes archivos:
 
-- `Pendulo_de_Foucault.ipynb.ipynb`: Un Jupyter Notebook en Google Colab que contiene el código para generar las animaciones y comparar el movimiento teórico con el real.
+- `Pendulo_de_Foucault.ipynb`: Un Jupyter Notebook en Google Colab que contiene el código para generar las animaciones y comparar el movimiento teórico con el real.
 - `animacion_pendulo_real.gif`: Animación que muestra la trayectoria del péndulo rastreada en un video.
 - `animacion_pendulo_teorico.gif`: Animación que representa la trayectoria teórica del péndulo según las ecuaciones físicas.
 - `trackeo1.txt`, `trackeo2.txt`, `trackeo3.txt`, `trackeo4.txt`: Archivos de texto plano que contienen los datos de rastreo de los péndulos en diferentes condiciones.
